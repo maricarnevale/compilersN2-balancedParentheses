@@ -1,4 +1,5 @@
 # compilersN2-balancedParentheses
+# Arquivo correto: src/com/company/Main.java
 Desafio 2: Validar linhas de código com ()[]{} válidos - Projeto
 Projeto individual
 Linguagem aceita - alfabeto da linguagem: <{[( )]}>
